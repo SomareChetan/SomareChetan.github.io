@@ -1,8 +1,8 @@
-#Engineering Student
+# Engineering Student
 
-###Education
+###E ducation
 Btech Cse
 
-###Skills
+### Skills
 C++ | Html | Css 
 -
