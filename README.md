@@ -1,6 +1,6 @@
 # Engineering Student
 
-###E ducation
+### Education
 Btech Cse
 
 ### Skills
