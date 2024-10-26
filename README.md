@@ -3,5 +3,6 @@
 ###Education
 Btech Cse
 
-##Skills
+###Skills
 C++ | Html | Css 
+-
